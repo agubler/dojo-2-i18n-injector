@@ -3,7 +3,7 @@ const locales = {
 };
 
 const messages = {
-	title: 'helloworld',
+	title: 'HelloWorld',
 };
 
 export default { locales, messages };
