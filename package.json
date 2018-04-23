@@ -1,6 +1,7 @@
 {
   "name": "i18n-injector",
   "version": "1.0.0",
+  "main": "src/main.ts",
   "dependencies": {
     "@dojo/core": "~0.5.0",
     "@dojo/has": "~0.1.2",
